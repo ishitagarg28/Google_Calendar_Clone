@@ -201,9 +201,8 @@ Feature	Description
 
 
 ![google-calendar-clone-main](./screenshots/Screenshot.png)  
-
 ![google-calendar-clone-main](./screenshots/screenshot2.png)  
-![google-calendar-clone-main](./screenshots/scrrensjot3.png)
+![google-calendar-clone-main](./screenshots/scrrenshot3.png)
 ## 9. Credits
 
 
