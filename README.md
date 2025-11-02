@@ -199,10 +199,11 @@ Feature	Description
 
 ## 8. Screenshots
 
-![google-calendar-clone-main](./screenshots/google-calendar-clone__Screenshot.png) 
-![google-calendar-clone-main](./screenshots/google-calendar-clone__screenshot2.png) 
-![google-calendar-clone-main](./screenshots/google-calendar-clone__screenshot3.png) 
 
+![google-calendar-clone-main](./screenshots/Screenshot.png)  
+
+![google-calendar-clone-main](./screenshots/screenshot2.png)  
+![google-calendar-clone-main](./screenshots/scrrensjot3.png)
 ## 9. Credits
 
 
