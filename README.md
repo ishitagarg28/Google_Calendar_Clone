@@ -143,7 +143,11 @@ Backend Logic: Node.js controller validates, saves, or retrieves event data.
 Database Operation: MongoDB performs CRUD operations on events collection.
 Response Sent: Data returned to frontend for UI update.
 
+### 🧩 System Architecture
 
+Frontend (React + Tailwind) ⇄ Backend (Node.js + Express) ⇄ Firestore (Database)
+
+![System Architecture](./image.png)
 
 
 ## 4. Business Logic and Edge Cases
@@ -194,7 +198,10 @@ Feature	Description
 
 
 ## 8. Screenshots
-![google-calendar-clone](./screenshots/google-calendar-clone__ss.png) 
+
+![google-calendar-clone](./screenshots/google-calendar-clone__Screenshot.png) 
+![google-calendar-clone](./screenshots/google-calendar-clone__screenshot2.png) 
+![google-calendar-clone](./screenshots/google-calendar-clone__screenshot3.png) 
 
 ## 9. Credits
 
