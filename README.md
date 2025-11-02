@@ -199,9 +199,9 @@ Feature	Description
 
 ## 8. Screenshots
 
-![google-calendar-clone](./screenshots/google-calendar-clone__Screenshot.png) 
-![google-calendar-clone](./screenshots/google-calendar-clone__screenshot2.png) 
-![google-calendar-clone](./screenshots/google-calendar-clone__screenshot3.png) 
+![google-calendar-clone-main](./screenshots/google-calendar-clone__Screenshot.png) 
+![google-calendar-clone-main](./screenshots/google-calendar-clone__screenshot2.png) 
+![google-calendar-clone-main](./screenshots/google-calendar-clone__screenshot3.png) 
 
 ## 9. Credits
 
