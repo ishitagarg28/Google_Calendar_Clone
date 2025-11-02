@@ -44,19 +44,22 @@ CALENDAR_ID=holiday@group.v.calendar.google.com
 ## 1. Install Dependencies
 
 ### Install client dependencies
-cd client
+```cd client
 npm install
-
+```
 ### Install server dependencies
-cd ../server
+```cd ../server
 npm install
-
+```
 ## 2. Run the App
 ### Run client (frontend)
+```
 npm run dev
-
+```
 ### In another terminal, run server (backend)
+```
 npm run dev
+```
 
 
 ## 3. Architecture Overview
